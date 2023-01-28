@@ -1,3 +1,4 @@
+[![MasterHead](http://community.thriveglobal.com/wp-content/uploads/2019/11/bruce-lee-quotes.jpg)](https://github.com/vedanshshri7)
 <h1 align="center">Hi 👋, I'm Vedansh Shrivastava</h1>
 <h3 align="center">Student of SGSITS,Passionate coder from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
