@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://github.com/vedanshshri7)
 <h1 align="center">Hi 👋, I'm Vedansh Shrivastava</h1>
 <h3 align="center">Student of SGSITS,Passionate coder from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
